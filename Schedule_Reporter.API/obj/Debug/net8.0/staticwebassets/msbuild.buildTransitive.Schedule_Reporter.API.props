@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Schedule_Reporter.API.props" />
+</Project>
